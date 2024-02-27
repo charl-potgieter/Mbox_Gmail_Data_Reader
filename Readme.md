@@ -1,0 +1,1 @@
+Can be used for exporting fields for example from gmail data obtained via Google Takout https://en.wikipedia.org/wiki/Google_Takeout
